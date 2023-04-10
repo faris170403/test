@@ -83,7 +83,7 @@
                            </li>
 
                            <li class="admi-menu">
-                               <a href="" class="mm-arr">Profil</a>
+                               <a href="" class="mm-arr">Profile</a>
                                <!-- MEGA MENU 1 -->
                                <div class="mm-pos">
                                    <div class="admi-mm m-menu">
